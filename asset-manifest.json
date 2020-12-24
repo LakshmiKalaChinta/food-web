@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/food-web/static/css/main.550d4976.chunk.css",
-    "main.js": "/food-web/static/js/main.776f692c.chunk.js",
-    "main.js.map": "/food-web/static/js/main.776f692c.chunk.js.map",
+    "main.js": "/food-web/static/js/main.35ceadf3.chunk.js",
+    "main.js.map": "/food-web/static/js/main.35ceadf3.chunk.js.map",
     "runtime-main.js": "/food-web/static/js/runtime-main.c071c15e.js",
     "runtime-main.js.map": "/food-web/static/js/runtime-main.c071c15e.js.map",
     "static/js/2.c2941e79.chunk.js": "/food-web/static/js/2.c2941e79.chunk.js",
@@ -15,12 +15,13 @@
     "static/media/Burger.0581af75.png": "/food-web/static/media/Burger.0581af75.png",
     "static/media/frenchfries.4d9d8ae1.png": "/food-web/static/media/frenchfries.4d9d8ae1.png",
     "static/media/pizza.3b6173b1.png": "/food-web/static/media/pizza.3b6173b1.png",
-    "static/media/sandwich.6ceb5547.png": "/food-web/static/media/sandwich.6ceb5547.png"
+    "static/media/sandwich.6ceb5547.png": "/food-web/static/media/sandwich.6ceb5547.png",
+    "static/media/tacos.a8ff94f6.png": "/food-web/static/media/tacos.a8ff94f6.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c071c15e.js",
     "static/js/2.c2941e79.chunk.js",
     "static/css/main.550d4976.chunk.css",
-    "static/js/main.776f692c.chunk.js"
+    "static/js/main.35ceadf3.chunk.js"
   ]
 }
