@@ -4,7 +4,7 @@
 }
 .OrderRoot {
   width: 250px;
-  margin: 5px 20px;
+  margin: 10px 20px;
   position: relative;
   height: 50px;
   border-radius: 13px;
@@ -18,11 +18,12 @@
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .itemName {
-  padding-left: 35%;
+  padding-left: 40%;
   font-size: 20px;
   padding-bottom: 8px;
   font-weight: bold;
   font-style: italic;
+  line-height: 1.2;
 }
 
 .OrderRoot::after {
@@ -37,7 +38,7 @@
 }
 
 .delete {
-  padding-right: 20px;
+  margin-right: 20px;
 }
 
 .delete img {

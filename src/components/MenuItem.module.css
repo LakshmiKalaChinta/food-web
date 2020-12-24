@@ -107,6 +107,7 @@
 }
 .ItemCount {
   color: rgb(45, 45, 45);
+  font-size: 16px;
 }
 
 .ItemName {
