@@ -5,6 +5,7 @@ import PizzaImage from "./../assets/pizza.png";
 import BurgerImage from "./../assets/Burger.png";
 import Sandwich from "./../assets/sandwich.png";
 import FrenchFriesImage from "./../assets/frenchfries.png";
+import Tacos from "./../assets/tacos.png";
 import OrderList from "./OrderList";
 
 class FoodWebPage extends React.Component {
@@ -39,14 +40,8 @@ class FoodWebPage extends React.Component {
           orderCount: 0,
         },
         {
-          itemName: "Veg Burger",
-          image: "",
-          price: 90,
-          orderCount: 0,
-        },
-        {
-          itemName: "Veg ljdbhljd",
-          image: "",
+          itemName: "Tacos",
+          image: Tacos,
           price: 90,
           orderCount: 0,
         },
