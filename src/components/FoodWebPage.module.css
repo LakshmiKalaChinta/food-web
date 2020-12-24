@@ -10,6 +10,7 @@
   flex-direction: row;
   align-items: flex-start;
   justify-content: flex-start;
+  margin-bottom: 50px;
   /* color: whitesmoke; */
 }
 
@@ -26,7 +27,7 @@
 }
 
 .Title2 {
-  width: 215px;
+  width: 250px;
   padding: 10px 20px;
 }
 
@@ -35,6 +36,9 @@
   .OrderList {
     display: block;
     margin-top: 20px;
+  }
+  .OrderList {
+    margin-bottom: 80px;
   }
   .Title1 {
     max-width: 100%;

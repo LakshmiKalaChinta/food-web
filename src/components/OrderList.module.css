@@ -20,9 +20,9 @@
 .itemName {
   padding-left: 40%;
   font-size: 20px;
-  padding-bottom: 8px;
+  padding-bottom: 4px;
   font-weight: bold;
-  font-style: italic;
+  /* font-style: italic; */
   line-height: 1.2;
 }
 
@@ -34,7 +34,7 @@
   top: -10%;
   left: 10%;
   font-weight: 800;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 .delete {
@@ -44,4 +44,19 @@
 .delete img {
   width: 20px;
   height: 20px;
+}
+
+.Total {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 250px;
+  height: 50px;
+  border-radius: 13px;
+  background-color: whitesmoke;
+  font-size: 20px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
